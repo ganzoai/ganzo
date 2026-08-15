@@ -7,4 +7,4 @@ Ganzo is an Agentic Blockchain with Proof of Useful Inference (PoUI). It leverag
 # Inference & Training
 Providers will use the agentic blockchain to provide Inference from local GPUs or remote compute. Multi-Agents manage agents, inference engines, LLMs, and training across the network.
 
-
+![ganzo app](https://github.com/ganzoai/ganzo/blob/main/ganzo-app-screenshots/ganzo-app-chat.png)
