@@ -496,6 +496,7 @@ footer p {
 .platform-download {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 12px;
 }
 
@@ -570,12 +571,12 @@ footer p {
     overflow-x: auto;
     color: #e0e0e0;
     font-size: 0.85rem;
-    font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+    font-family: inherit;
     line-height: 1.5;
 }
 
 .curl-code code {
-    color: #4CAF50;
+    color: #888;
 }
 
 /* Navigation links on dark */
